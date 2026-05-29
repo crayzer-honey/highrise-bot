@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for highrise-bot-jxcl-q on 2026-05-29T18:11:19Z
+# fly.toml app configuration file generated for highrise-bot-4vkqbq on 2026-05-29T18:48:44Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'highrise-bot-jxcl-q'
+app = 'highrise-bot-4vkqbq'
 primary_region = 'ams'
 
 [build]
